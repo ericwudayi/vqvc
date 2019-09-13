@@ -8,12 +8,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 One-shot  voice  conversion(VC)  without  parallel  data  hasbeen  studied  recently,  however,  it  suffer  from  the  unstableand  low  quality  problem  on  unseen  voice  due  to  unseenspeaker  embedding.    In  this  paper,  we  proposed  a  vectorquantization(VQ) based one-shot VC approach without pre-trained  speaker  model,  and  it  is  able  to  convert  the  unseenvoice during training.  In contrast to prior work which con-catenate the speaker embedding on the latent space, we modelthe embedding of utterance as content-only quantized vectorplus the speaker vector on latent space.  In other words, thecontent information is a series of quantized vector,  and thespeaker information is represented by the difference betweenquantize-before and quantize-after vector. Surprisingly, eval-uation shows that this kind of method works and is able togenerate the voice similar to target speaker.  Also, it can dothe voice merging by interpolation of speaker embedding.
 
-|:-------------|:-------------|:-------------|
- Seen Source | Seen Target | Converted 
-|:-------------|:-------------|:-------------|
-<audio src="demo/demo01/inp.wav" controls preload></audio> | <audio src="demo/demo01/inp2.wav" controls preload></audio> | <audio src="demo/demo01/convert.wav" controls preload></audio>
-|:-------------|:-------------|:-------------|
-<audio src="demo/demo02/inp.wav" controls preload></audio> | <audio src="demo/demo02/inp2.wav" controls preload></audio> | <audio src="demo/demo02/convert.wav" controls preload></audio>|:-------------|:-------------|:-------------|
-<audio src="demo/demo03/inp.wav" controls preload></audio> | <audio src="demo/demo03/inp2.wav" controls preload></audio> | <audio src="demo/demo03/convert.wav" controls preload></audio>|:-------------|:-------------|:-------------|
-<audio src="demo/demo04/inp.wav" controls preload></audio> | <audio src="demo/demo04/inp2.wav" controls preload></audio> | <audio src="demo/demo04/convert.wav" controls preload></audio>
-
+|:-------------|:-------------|:-------------|:-------------|
+|  | Seen Source | Seen Target | Converted |
+|:-------------|:-------------|:-------------|:-------------|
+| male to female | <audio src="demo/demo01/inp.wav" controls preload></audio> | <audio src="demo/demo01/inp2.wav" controls preload></audio> | <audio src="demo/demo01/convert.wav" controls preload></audio>
+|:-------------|:-------------|:-------------|:-------------|
+| female to female | <audio src="demo/demo02/inp.wav" controls preload></audio> | <audio src="demo/demo02/inp2.wav" controls preload></audio> | <audio src="demo/demo02/convert.wav" controls preload></audio> |
+|:-------------|:-------------|:-------------|:-------------|
+| male to male | <audio src="demo/demo03/inp.wav" controls preload></audio> | <audio src="demo/demo03/inp2.wav" controls preload></audio> | <audio src="demo/demo03/convert.wav" controls preload></audio> |
+|:-------------|:-------------|:-------------|:-------------|
+| female to male | <audio src="demo/demo04/inp.wav" controls preload></audio> | <audio src="demo/demo04/inp2.wav" controls preload></audio> | <audio src="demo/demo04/convert.wav" controls preload></audio>
+|:-------------|:-------------|:-------------|:-------------|
