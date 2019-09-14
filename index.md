@@ -10,16 +10,16 @@ One-shot voice conversion(VC) without parallel data has been studied recently, h
 
 ### Demo 1
 
-| **Speaker Info** | **Seen Source** | **Seen Target** | **Converted** |
-|:-------------|:-------------|:-------------|:-------------|
-| male to female | <audio src="demo/demo01/inp.wav" controls preload></audio> | <audio src="demo/demo01/inp2.wav" controls preload></audio> | <audio src="demo/demo01/convert.wav" controls preload></audio>
-|:-------------|:-------------|:-------------|:-------------|
-| female to female | <audio src="demo/demo02/inp.wav" controls preload></audio> | <audio src="demo/demo02/inp2.wav" controls preload></audio> | <audio src="demo/demo02/convert.wav" controls preload></audio> |
-|:-------------|:-------------|:-------------|:-------------|
-| male to male | <audio src="demo/demo03/inp.wav" controls preload></audio> | <audio src="demo/demo03/inp2.wav" controls preload></audio> | <audio src="demo/demo03/convert.wav" controls preload></audio> |
-|:-------------|:-------------|:-------------|:-------------|
-| female to male | <audio src="demo/demo04/inp.wav" controls preload></audio> | <audio src="demo/demo04/inp2.wav" controls preload></audio> | <audio src="demo/demo04/convert.wav" controls preload></audio>
-|:-------------|:-------------|:-------------|:-------------|
+| **Seen Source** | **Seen Target** | **Converted** |
+|:-------------|:-------------|:-------------|
+| <audio src="demo/demo01/inp.wav" controls preload></audio> | <audio src="demo/demo01/inp2.wav" controls preload></audio> | <audio src="demo/demo01/convert.wav" controls preload></audio>
+|:-------------|:-------------|:-------------|
+| <audio src="demo/demo02/inp.wav" controls preload></audio> | <audio src="demo/demo02/inp2.wav" controls preload></audio> | <audio src="demo/demo02/convert.wav" controls preload></audio> |
+|:-------------|:-------------|:-------------|
+| <audio src="demo/demo03/inp.wav" controls preload></audio> | <audio src="demo/demo03/inp2.wav" controls preload></audio> | <audio src="demo/demo03/convert.wav" controls preload></audio> |
+|:-------------|:-------------|:-------------|
+| <audio src="demo/demo04/inp.wav" controls preload></audio> | <audio src="demo/demo04/inp2.wav" controls preload></audio> | <audio src="demo/demo04/convert.wav" controls preload></audio>
+|:-------------|:-------------|:-------------|
 
 ### Demo 2
 
