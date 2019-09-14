@@ -20,3 +20,15 @@ One-shot voice conversion(VC) without parallel data has been studied recently, h
 |:-------------|:-------------|:-------------|:-------------|
 | female to male | <audio src="demo/demo04/inp.wav" controls preload></audio> | <audio src="demo/demo04/inp2.wav" controls preload></audio> | <audio src="demo/demo04/convert.wav" controls preload></audio>
 |:-------------|:-------------|:-------------|:-------------|
+
+### Demo 2
+
+| **UnSeen Source** | **UnSeen Target** | **Converted** |
+|:-------------|:-------------|:-------------|
+| <audio src="demo/demo05/inp.wav" controls preload></audio> | <audio src="demo/demo05/inp2.wav" controls preload></audio> | <audio src="demo/demo05/convert.wav" controls preload></audio>
+|:-------------|:-------------|:-------------|
+| <audio src="demo/demo06/inp.wav" controls preload></audio> | <audio src="demo/demo06/inp2.wav" controls preload></audio> | <audio src="demo/demo06/convert.wav" controls preload></audio> |
+|:-------------|:-------------|:-------------|
+| <audio src="demo/demo07/inp.wav" controls preload></audio> | <audio src="demo/demo07/inp2.wav" controls preload></audio> | <audio src="demo/demo07/convert.wav" controls preload></audio> |
+|:-------------|:-------------|:-------------|
+
