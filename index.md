@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Demo 1
 
-| **Seen Source** | **Seen Target** | **Converted** |
+| **=Source** | **=Target** | **Converted** |
 |:-------------|:-------------|:-------------|
 | <audio src="demo/demo01/inp.wav" controls preload></audio> | <audio src="demo/demo01/inp2.wav" controls preload></audio> | <audio src="demo/demo01/convert.wav" controls preload></audio>
 |:-------------|:-------------|:-------------|
@@ -17,34 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 |:-------------|:-------------|:-------------|
 | <audio src="demo/demo03/inp.wav" controls preload></audio> | <audio src="demo/demo03/inp2.wav" controls preload></audio> | <audio src="demo/demo03/convert.wav" controls preload></audio> |
 |:-------------|:-------------|:-------------|
-| <audio src="demo/demo04/inp.wav" controls preload></audio> | <audio src="demo/demo04/inp2.wav" controls preload></audio> | <audio src="demo/demo04/convert.wav" controls preload></audio>
+| <audio src="demo/demo04/inp.wav" controls preload></audio> | <audio src="demo/demo04/inp2.wav" controls preload></audio> | <audio src="demo/demo04/convert.wav" controls preload></audio> |
 |:-------------|:-------------|:-------------|
-| <audio src="demo/demo05/inp.wav" controls preload></audio> | <audio src="demo/demo05/inp2.wav" controls preload></audio> | <audio src="demo/demo05/convert.wav" controls preload></audio>
-|:-------------|:-------------|:-------------|
-| <audio src="demo/demo06/inp.wav" controls preload></audio> | <audio src="demo/demo06/inp2.wav" controls preload></audio> | <audio src="demo/demo06/convert.wav" controls preload></audio> |
-|:-------------|:-------------|:-------------|
-| <audio src="demo/demo07/inp.wav" controls preload></audio> | <audio src="demo/demo07/inp2.wav" controls preload></audio> | <audio src="demo/demo07/convert.wav" controls preload></audio> |
-|:-------------|:-------------|:-------------|
-| <audio src="demo/demo11/inp.wav" controls preload></audio> | <audio src="demo/demo11/inp2.wav" controls preload></audio> | <audio src="demo/demo11/convert.wav" controls preload></audio> |
-|:-------------|:-------------|:-------------|
-
-### Demo 2 
-
-| **UnSeen Source** | **UnSeen Target** | **Converted** |
-|:-------------|:-------------|:-------------|
-| <audio src="demo/demo0001/inp.wav" controls preload></audio> | <audio src="demo/demo0001/inp2.wav" controls preload></audio> | <audio src="demo/demo0001/convert.wav" controls preload></audio> |
-|:-------------|:-------------|:-------------|
-| <audio src="demo/demo0002/inp.wav" controls preload></audio> | <audio src="demo/demo0002/inp2.wav" controls preload></audio> | <audio src="demo/demo0002/convert.wav" controls preload></audio> |
-|:-------------|:-------------|:-------------|
-| <audio src="demo/demo0003/inp.wav" controls preload></audio> | <audio src="demo/demo0003/inp2.wav" controls preload></audio> | <audio src="demo/demo0003/convert.wav" controls preload></audio> |
-| <audio src="demo/demo0004/inp.wav" controls preload></audio> | <audio src="demo/demo0004/inp2.wav" controls preload></audio> | <audio src="demo/demo0004/convert.wav" controls preload></audio> |
-| <audio src="demo/demo0005/inp.wav" controls preload></audio> | <audio src="demo/demo0005/inp2.wav" controls preload></audio> | <audio src="demo/demo0005/convert.wav" controls preload></audio> |
-
-### Demo3 Speaker Interpolation
-
-| **k = 1(origin)** | **k = -1** |
-|:-------------|:-------------|
-| <audio src="demo/demo08/out_1.wav" controls preload></audio> | <audio src="demo/demo08/out_2.wav" controls preload></audio> | 
-| <audio src="demo/demo09/out_1.wav" controls preload></audio> | <audio src="demo/demo09/out_2.wav" controls preload></audio> | 
-| <audio src="demo/demo10/out_1.wav" controls preload></audio> | <audio src="demo/demo10/out_2.wav" controls preload></audio> | 
+| <audio src="demo/demo05/inp.wav" controls preload></audio> | <audio src="demo/demo05/inp2.wav" controls preload></audio> | <audio src="demo/demo05/convert.wav" controls preload></audio> |
 |:-------------|:-------------|:-------------|
