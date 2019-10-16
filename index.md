@@ -31,3 +31,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 |:-------------|:-------------|:-------------|
 | <audio src="demo/demo10/inp.wav" controls preload></audio> | <audio src="demo/demo10/inp2.wav" controls preload></audio> | <audio src="demo/demo10/convert.wav" controls preload></audio> |
 |:-------------|:-------------|:-------------|
+| <audio src="demo/demo11/inp.wav" controls preload></audio> | <audio src="demo/demo11/inp2.wav" controls preload></audio> | <audio src="demo/demo11/convert.wav" controls preload></audio> |
+|:-------------|:-------------|:-------------|
+| <audio src="demo/demo12/inp.wav" controls preload></audio> | <audio src="demo/demo12/inp2.wav" controls preload></audio> | <audio src="demo/demo12/convert.wav" controls preload></audio> |
+|:-------------|:-------------|:-------------|
