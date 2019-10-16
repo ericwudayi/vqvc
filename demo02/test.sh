@@ -1,5 +1,5 @@
 echo "$1"
-cp -r "../../vq-v14/wav_out" "$1"
+cp -r "../../vq-v7/wav_out" "$1"
 #echo $2
 cd "./$1"
 mv "test_mel_mel_out_inp.wav" "inp.wav"
