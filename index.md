@@ -21,3 +21,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 |:-------------|:-------------|:-------------|
 | <audio src="demo/demo05/inp.wav" controls preload></audio> | <audio src="demo/demo05/inp2.wav" controls preload></audio> | <audio src="demo/demo05/convert.wav" controls preload></audio> |
 |:-------------|:-------------|:-------------|
+| <audio src="demo/demo06/inp.wav" controls preload></audio> | <audio src="demo/demo06/inp2.wav" controls preload></audio> | <audio src="demo/demo06/convert.wav" controls preload></audio> |
+|:-------------|:-------------|:-------------|
+| <audio src="demo/demo07/inp.wav" controls preload></audio> | <audio src="demo/demo07/inp2.wav" controls preload></audio> | <audio src="demo/demo07/convert.wav" controls preload></audio> |
+|:-------------|:-------------|:-------------|
+| <audio src="demo/demo08/inp.wav" controls preload></audio> | <audio src="demo/demo08/inp2.wav" controls preload></audio> | <audio src="demo/demo08/convert.wav" controls preload></audio> |
+|:-------------|:-------------|:-------------|
+| <audio src="demo/demo09/inp.wav" controls preload></audio> | <audio src="demo/demo09/inp2.wav" controls preload></audio> | <audio src="demo/demo09/convert.wav" controls preload></audio> |
+|:-------------|:-------------|:-------------|
+| <audio src="demo/demo10/inp.wav" controls preload></audio> | <audio src="demo/demo10/inp2.wav" controls preload></audio> | <audio src="demo/demo10/convert.wav" controls preload></audio> |
+|:-------------|:-------------|:-------------|
