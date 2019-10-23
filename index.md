@@ -1,11 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ericwudayi/vqvc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Abstract
-
+In this paper, we propose a vector quantization (VQ) based one-shot voice conversion (VC) approach without any supervision on speaker label.
+We model the content embedding as a series of discrete codes and take the difference between quantize-before and quantize-after vector as the speaker embedding. 
+We show that this approach has a strong ability to disentangle the content and speaker information with reconstruction loss only, and one-shot VC is thus achieved.
 
 ### Demo 1 F2M
 
